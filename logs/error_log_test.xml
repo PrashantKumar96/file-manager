@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<logs>
+    <log id="1">
+        <title>First log</title>
+        <user>Rajat</user>
+        <time>31st April, 2014</time>
+        <event>
+            <id>0</id>
+            <detail>First thing happened</detail>
+            <checked>Yes</checked>
+        </event>
+        <event>
+            <id>1</id>
+            <detail>Second thing happened</detail>
+            <checked/>
+        </event>
+        <event>
+            <id>2</id>
+            <detail>Third thing happened</detail>
+            <checked>Yes</checked>
+        </event>
+    </log>
+    <log id="2">
+        <title>Second log</title>
+        <user>Nikhil</user>
+        <time>31st April, 2014</time>
+        <event>
+            <id>0</id>
+            <detail>First thing happened</detail>
+            <checked>Yes</checked>
+        </event>
+        <event>
+            <id>1</id>
+            <detail>Second thing happened</detail>
+            <checked>No</checked>
+        </event>
+        <event>
+            <id>2</id>
+            <detail>Third thing happened</detail>
+            <checked>Yes</checked>
+        </event>
+    </log>   
+</logs>
